@@ -81,7 +81,7 @@ bottom: calc(var(--index) *-7);
     transition: var(--transition);
     margin-top: calc(var(--index)*-16);
     color:#192e2e;
-    text-shadow: 0 0 15px #d97941;
+    text-shadow: 0 0 15px #fdfef5;
 }
 .layers__title {
     font-size: calc(var(--index)*2.5);
